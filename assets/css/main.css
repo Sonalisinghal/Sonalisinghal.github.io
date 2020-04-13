@@ -163,6 +163,10 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	/*p, .description{
+		margin: 0 0 0.5em 0;
+	}*/
+
 	h1 {
 		font-size: 2.75em;
 		font-weight: 700;
@@ -2561,6 +2565,9 @@ input, select, textarea {
 			}
 
 /* Button */
+#more {
+	display:none;
+}
 
 	input[type="submit"],
 	input[type="reset"],
@@ -2597,6 +2604,13 @@ input, select, textarea {
 		text-transform: uppercase;
 		white-space: nowrap;
 	}
+		
+		button.readmore,
+		.button.readmore{
+			font-size: 0.5em;
+			padding: 0 0.5em 0 0.9em;
+			font-weight: 600;
+		}
 
 		input[type="submit"].icon:before,
 		input[type="reset"].icon:before,
@@ -2695,6 +2709,151 @@ input, select, textarea {
 			pointer-events: none;
 			opacity: 0.25;
 		}
+/* Course */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+.slide-container {
+  margin: auto;
+  width: 600px;
+  text-align: center;
+}
+
+.wrapper {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+  &:focus {
+    outline: 0;
+  }
+}
+
+
+
+.course {
+  background: white;
+  /*width: 300px;*/
+  display: inline-block;
+  margin: auto;
+  border-radius: 19px;
+  position: relative;
+  text-align: center;
+  box-shadow: -1px 15px 30px -12px black;
+  z-index: 9999;
+}
+
+.course__image {
+  position: relative;
+  height: 150px;
+  margin-bottom: 15px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+}
+
+
+.course__image--archer {
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/archer-bg.jpg');
+ 	display: block;
+    /*position: relative;*/
+    overflow: hidden;
+ 
+ }
+.course__image--archer  img {
+    width: 100%;
+  }
+
+.course__level {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.course__level--archer {
+  color: #935d8c;
+}
+.course__unit-name {
+  font-size: 26px;
+  color: black;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+
+.course__unit-description {
+  padding: 10px;
+  margin-bottom: 10px;
+  height:120px;  
+}
+
+
+.course__unit-stats--archer {
+  background: #935d8c;
+  opacity:80%;
+}
+  
+ .course__unit-stats--archer  .one-third {
+     border-right: 1px solid #935d8c;
+  }
+
+
+.course__unit-stats {
+  
+  color: white;
+  font-weight: 700;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+ }
+.course__unit-stats   .one-third {
+    width: 33%;
+    float: left;
+    padding: 0.6em 1em;
+  }
+  
+.course__unit-stats   sup {
+    position: absolute;
+    bottom: 4px; 
+    font-size: 45%;
+    margin-left: 2px;
+  }
+  
+ .course__unit-stats  .stat {
+    position: relative;
+    font-size: 24px;
+    /*margin-bottom: 10px;*/
+  }
+  
+ .course__unit-stats  .stat-value {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+  }
+
+ .course__unit-stats  .no-border {
+    border-right: none;
+  }
+
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+.slick-prev {
+  left: 100px;
+  z-index: 999;
+}
+
+.slick-next {
+  right: 100px;
+  z-index: 999;
+}
+
 
 /* Tiles */
 
@@ -2707,7 +2866,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 
 	}
