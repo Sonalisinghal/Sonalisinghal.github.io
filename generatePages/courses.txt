@@ -1,0 +1,33 @@
+{
+"Python": [
+        {
+            "Platform": "Coursera",
+            "About": "Learn Python from University of Michigan",
+            "Link": "https://www.coursera.org/specializations/python-3-programming",
+            "Time": "5 months",
+            "Level": "Beginner"
+        },
+        {
+            "Platform": "Codecademy",
+            "About": "Free course to lean python in 25 hours!",
+            "Link": "https://www.codecademy.com/learn/learn-python-3",
+            "Time": "25 hours",
+            "Cost": "Free",
+            "Level": "Beginner"
+        },
+        {
+            "Platform": "EDx",
+            "About": "A 5 week couse to become fluent in Python ",
+            "Link": "https://www.edx.org/course/introduction-to-python-absolute-beginner-2",
+            "Time": "5 Weeks",
+            "Level": "Beginner"
+        }
+    ],
+"Java":[
+        {
+            "Skill/Language": "Java",
+            "Platform": "Codecademy",
+            "Link": "https://www.codecademy.com/learn/learn-java"
+        },
+    ]
+}

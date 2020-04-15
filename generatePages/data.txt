@@ -1,0 +1,235 @@
+﻿{
+    "CP": [
+        {
+            "Competitions": "ACM-ICPC",
+            "About": "It is the oldest, largest, and most prestigious programming contest in the world.",
+            "Team Size": "3",
+            "Applications Open": "September-October",
+            "Link": "https://icpc.baylor.edu/",
+            "Eligibility": " A student must be enrolled in a degree program at the team’s institution with at least a half-time load. A student who has competed in two ICPC World Finals is NOT eligible to compete.  \nA student who has competed in qualifying regional contests during five different contest years is NOT eligible to compete. "
+        },
+        {
+            "Competitions": "Google CodeJam I/0 for women",
+            "About": "Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition.The top 150 on the scoreboard will receive a ticket and reimbursement to offset travel expenses to Google I/O.",
+            "Team Size": "1",
+            "Applications Open": "January",
+            "Link": "g.co/codejamio",
+            "Eligibility": "Women student and professionals"
+        },
+        {
+            "Competitions": "Google Kickstart",
+            "About": "Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers.",
+            "Team Size": "1",
+            "Applications Open": "February",
+            "Link": "g.co/kickstart",
+            "Eligibility": "Anyone"
+        },
+        {
+            "Competitions": "Google CodeJam",
+            "Team Size": "1"
+        },
+        {
+            "Competitions": "Google Hashcode",
+            "Team Size": "4"
+        },
+        {
+            "Competitions": "Practice",
+            "About": "About",
+            "Team Size": "Difficulty of questions"
+        },
+        {
+            "Team Size": "Easy",
+            "Applications Open": "Medium",
+            "Link": "Hard"
+        },
+        {
+            "Competitions": "Codeforces",
+            "About": "Platform where online contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare",
+            "Team Size": "https://codeforces.com/problemset?tags=Easy-Easy",
+            "Applications Open": "https://codeforces.com/problemset?tags=Medium-Medium",
+            "Link": "https://codeforces.com/problemset?tags=Hard-Hard"
+        },
+        {
+            "Competitions": "Codechef",
+            "About": "Three featured contests every month and give away prizes and goodies to the winners as encouragement. ",
+            "Team Size": "https://www.codechef.com/problems/easy",
+            "Applications Open": "https://www.codechef.com/problems/medium",
+            "Link": "https://www.codechef.com/problems/hard"
+        },
+        {
+            "Competitions": "HackerEarth",
+            "About": "HackerEarth provides enterprise software solutions that help organisations with their technical recruitment needs. HackerEarth has conducted 1000+ hackathons and 10,000+ programming challenges to date.",
+            "Team Size": "https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/?sort_by=undefined&p_level=E",
+            "Applications Open": "https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/?sort_by=undefined&p_level=E-M,M",
+            "Link": "https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/?sort_by=undefined&p_level=H,M-H"
+        },
+        {
+            "Competitions": "Leetcode",
+            "About": "One of the best place Interview Preparation with mock interviews and questions from different companies.",
+            "Team Size": "https://leetcode.com/problemset/all/?difficulty=Easy",
+            "Applications Open": "https://leetcode.com/problemset/all/?difficulty=Medium",
+            "Link": "https://leetcode.com/problemset/all/?difficulty=Hard"
+        },
+        {
+            "Competitions": "GeeksForGeeks",
+            "About": "Contains well explained computer science and programming articles, quizzes and programming questions",
+            "Team Size": "https://www.geeksforgeeks.org/easy",
+            "Applications Open": "https://www.geeksforgeeks.org/medium",
+            "Link": "https://www.geeksforgeeks.org/hard"
+        },
+        {
+            "Competitions": "InterviewBit",
+            "About": "Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies.\n"
+        }
+    ],
+    "Developer Clubs": [
+        {
+            "Club": "PyLadies",
+            "About": "Women Who Love Coding in Python\n\nPyLadies aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!",
+            "Link": "https://www.pyladies.com/",
+            "Meetup/Upcoming events": "https://www.meetup.com/PyladiesIndia/",
+            "Find the closest chapter": "https://www.pyladies.com/locations/"
+        },
+        {
+            "Club": "Rails Girls",
+            "About": "Learn sketching, prototyping, basic programming and get introduced to the world of technology. Rails Girls was born in Finland, but is nowadays a global, non-profit volunteer community.",
+            "Link": "http://railsgirls.com/",
+            "Meetup/Upcoming events": "http://railsgirls.com/events.html"
+        },
+        {
+            "Club": "Women Who Code",
+            "About": "We envision a world where women are proportionally represented as technical leaders, executives, founders, VCs, board members, and software engineers.",
+            "Link": "https://www.womenwhocode.com/",
+            "Meetup/Upcoming events": "https://www.meetup.com/Women-Who-Code-Delhi/",
+            "Find the closest chapter": "https://www.womenwhocode.com/networks"
+        },
+        {
+            "Club": "Facebook Developer Circle",
+            "About": "Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market.",
+            "Link": "https://developers.facebook.com/developercircles/",
+            "Meetup/Upcoming events": "https://www.facebook.com/groups/DevCDelhiNCR/",
+            "Find the closest chapter": "https://developers.facebook.com/developercircles/find"
+        },
+        {
+            "Club": "Google Developer Group",
+            "About": "When you join a Google Developer Group, you’ll have the opportunity to meet local developers with similar interests in technology. A GDG meetup event includes talks on a wide range of technical topics where you can learn new skills through hands-on workshops.",
+            "Link": "https://developers.google.com/community/gdg",
+            "Find the closest chapter": "https://developers.google.com/community/gdg/groups"
+        },
+        {
+            "Club": "Google Developer Student Club",
+            "About": "Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome",
+            "Link": "https://developers.google.com/community/dsc",
+            "Find the closest chapter": "https://developers.google.com/community/dsc/clubs"
+        },
+        {
+            "Club": "Codess",
+            "About": "Codess is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field. ",
+            "Link": "https://www.codess.net/",
+            "Meetup/Upcoming events": "https://www.codess.net/events/",
+            "Find the closest chapter": "https://www.codess.net/events/"
+        }
+    ],
+    "Internships": [
+        {
+            "1st year": "Google talent sprint",
+            "undefined": "we.talentsprint.com"
+        },
+        {
+            "1st year": "2nd year"
+        },
+        {
+            "1st year": "Google Step Internship"
+        },
+        {
+            "1st year": "Microsoft Codess"
+        },
+        {
+            "1st year": "Helen Fellowship"
+        }
+    ],
+    "Scholarships": [
+        {
+            "Scholarship": "Grace hopper Scholarship",
+            "Applications open": "January-March",
+            "Link": "https://ghc.anitab.org/2020-student-academic/scholarships/"
+        },
+        {
+            "Scholarship": "Pass it on awards",
+            "Applications open": "January-March",
+            "Link": "https://systers.submittable.com/submit/76301/systers-pass-it-on-awards"
+        },
+        {
+            "Scholarship": "Adobe Women In tech Scholarship",
+            "Eligibility": "Be an Indian female citizen student\nMust be enrolled as a full time student in a formal technology 4 year BE / B.Tech education program or an Integrated ME/MS/MTech program at an Indian University or Institute at the time of applying and should be completing the program in Academic year 2020-21.\nShould be pursuing a Major or Minor in the following streams: Computer Science/Engineering, Information Science, Data Science, Electrical/Electronics Engineering, Math and Computing\nMay apply to ONLY ONE of the following two Scholarships – Adobe India Women-In-Technology Scholarship OR the Adobe Global Women In Technology Scholarship.\nAnyone who is a “related party” to an Adobe employee is not eligible to apply.\nDefinition of Related Party – Any person having the following relationship to an Adobe employee: spouse, domestic partner, child, parent, sibling, child-in-law, parent-in-law, or sibling-in-law; any other relative or person who lives in the household of an Adobe employee.",
+            "Applications open": "August-September"
+        },
+        {
+            "Scholarship": "Google's Venkat Panchapakesan Memorial Scholarship"
+        },
+        {
+            "Scholarship": "Red Hat",
+            "About": "Women in Open source"
+        },
+        {
+            "Scholarship": "Women tech Makers"
+        },
+        {
+            "Scholarship": "Western Digital Scholarship Program"
+        }
+    ],
+    "Research": [
+        {
+            "Research Internships": "A big thanks to:"
+        },
+        {
+            "Research Internships": "For more visit:"
+        }
+    ],
+    "Videos and blogs": [
+        {
+            "Title": "Short guide to starting competitive programming",
+            "Date": "Dec 2, 2019",
+            "Description": "Lavina gives ssome suggestions on how one can get started with competitive programming and how to practice coding.",
+            "Link": "https://medium.com/@lavina16052/short-guide-to-starting-competitive-programming-ff60dfdfb90b"
+        },
+        {
+            "Title": "Google Venkat Scholarship - A Dream Come True",
+            "Date": "Aug 14, 2019",
+            "Description": "Baani narrates her experience of how she got the prestigious Google Venkat Scholarship and ",
+            "Link": "https://medium.com/@BaaniLeen/google-venkat-scholarship-a-dream-come-true-c54f5b42ac1d"
+        },
+        {
+            "Title": "Women Tech Makers Experience 2019",
+            "Date": "Mar 17, 2020",
+            "Description": "Shreya explains the application process and an insight of what goes on in the Women Tech Maker retreat",
+            "Link": "https://medium.com/@shreyagupta0806/google-women-techmakers-experience-2019-a9b1d0e19877"
+        },
+        {
+            "Title": "Breaking down barriers to open source contributions",
+            "Date": "Mar 24,2020",
+            "Description": "Tanea helps clearning some doubts about RGSoC and how it can help one to get started with FOSS",
+            "Link": "https://railsgirlssummerofcode.org/blog/2020-03-24-breaking-barriers"
+        },
+        {
+            "Title": "Google Step Internship",
+            "Date": "Sept 22, 2019",
+            "Description": "In this blog, Lavina explains the interview process in basic: getting an interview call, the timeline, the course and the structure of the interviews.",
+            "Link": "https://medium.com/@lavina16052/google-step-internship-5b5141e0cac6"
+        },
+        {
+            "Title": "Video",
+            "Date": "Date",
+            "Description": "Description",
+            "Link": "Embed Video",
+            "undefined": "Video"
+        },
+        {
+            "Title": "LavanyaGaur-GoogleWTMScholar'19",
+            "Date": "Mar 16, 2020",
+            "Description": "Some tips to help scholarship applicants",
+            "Link": "https://www.youtube.com/embed/3shTgIo9Jv8",
+            "undefined": "lnkd.in/fQYMEPJ"
+        }
+    ]
+}
