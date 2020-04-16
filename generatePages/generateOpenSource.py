@@ -34,7 +34,7 @@ with open(tempfile, 'w') as f:
                       <h3>'''+ds["Contest"]+'''</h3>
                     <p>'''+ds['About']+'''</p>
                     <h6><b>Applications Open: </b>'''+ds['Applications Open']+'''</h6>
-                    <h6><b>Applications Close: </b>'''+ds["Last Date to Apply"]+'''</h6>
+                    <h6><b>Applications Close : </b>'''+ds["Last Date to Apply"]+'''</h6>
                     <h6><b>Eligibiblity: </b>'''+ds['Eligibility']+'''</h6>
                     <h6><b>Stipend: </b>'''+ds['Stipend']+'''</h6>
                     <ul class="actions">
