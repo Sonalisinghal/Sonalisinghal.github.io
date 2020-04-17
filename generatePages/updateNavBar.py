@@ -4,7 +4,7 @@ startComment = "START AUTO-INSERT NAVBAR"
 endComment = "END AUTO-INSERT NAVBAR"
 tempfile = 'nav.temp'
 
-pagelist=["../opensource.html","../index.html","../competitiveprogramming.html","../blogs.html","../courses.html","../developerclubs.html","../elements.html","../internships.html","../research.html","../scholarships.html"]
+pagelist=["../opensource.html","../index.html","../competitiveprogramming.html","../blogs.html","../courses.html","../developerclubs.html","../elements.html","../internships.html","../research.html","../scholarships.html","../contribute.html"]
 def updatePage():
   with open(pageToChange,'r') as file:
     orgLines = file.readlines()
@@ -38,6 +38,7 @@ with open(tempfile, 'w') as f:
               <li><a href="internships.html">Internships</a></li>
               <!--<li><a href="research.html">Research</a></li> -->
               <li><a href="blogs.html">Blogs and Videos</a></li>
+              <li><a href="contribute.html">Contribute</a></li>
               <!-- <li><a href="elements.html">Elements</a></li> -->
             </ul>
           </nav>''')

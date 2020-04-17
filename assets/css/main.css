@@ -247,7 +247,7 @@ input, select, textarea {
 	}
 
 	h6 {
-		font-size: 0.8em;
+		font-size: 0.9em;
 	}
 
 	@media screen and (max-width: 980px) {
@@ -2996,7 +2996,6 @@ input, select, textarea {
   right: 100px;
   z-index: 999;
 }
-
 
 /* Tiles */
 
