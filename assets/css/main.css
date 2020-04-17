@@ -3362,7 +3362,7 @@ input, select, textarea {
 			}
 
 				.spotlight .image img {
-					width: 12em;
+					width: 16em;
 				}
 
 		}
@@ -3497,7 +3497,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				padding: 4em 0 0.1em 0 ;
+				/*padding: 4em 0 0.1em 0 ;*/
+				padding: 0.7em 0em 1em 0;
 			}
 
 				#header nav {
