@@ -30,7 +30,7 @@ with open(tempfile, 'w') as f:
             <br>
             <ul>
               <li><a href="index.html">Home</a></li>
-              <li><a href="courses.html">Courses</a></li>
+              <!--<li><a href="courses.html">Courses</a></li>-->
               <li><a href="scholarships.html">Scholarships</a></li>
               <li><a href="opensource.html">Open Source</a></li>
               <li><a href="competitiveprogramming.html">Competitive Programming</a></li>
