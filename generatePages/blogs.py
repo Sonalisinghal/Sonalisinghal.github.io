@@ -2,7 +2,7 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 "Author":"Tanea Agrawaal",
 "Date":"Mar 24,2020",
 "Description":"Tanea helps clearning some doubts about RGSoC and how it can help one to get started with FOSS",
-"ImageName":"pic02.jpg",
+"ImageName":"opensource.jpg",
 "Link":"https://railsgirlssummerofcode.org/blog/2020-03-24-breaking-barriers"
 },
 {
@@ -10,7 +10,7 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 "Author":"Shreya Gupta",
 "Date":"Mar 17, 2020",
 "Description":"Shreya explains the application process and an insight of what goes on in the Women Tech Maker retreat",
-"ImageName":"pic04.jpg",
+"ImageName":"wtm.jpg",
 "Link":"https://medium.com/@shreyagupta0806/google-women-techmakers-experience-2019-a9b1d0e19877"
 },
 {
@@ -18,7 +18,7 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 "Author":"Lavina Jain",
 "Date":"Dec 2, 2019",
 "Description":"Lavina gives some suggestions on how one can get started with competitive programming and how to practice coding.",
-"ImageName":"pic03.jpg",
+"ImageName":"cp.jpg",
 "Link":"https://medium.com/@lavina16052/short-guide-to-starting-competitive-programming-ff60dfdfb90b"
 },
 {
@@ -26,7 +26,7 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 "Author":"Lavina Jain",
 "Date":"Sept 22, 2019",
 "Description":"In this blog, Lavina explains the interview process in basic: getting an interview call, the timeline, the course and the structure of the interviews.",
-"ImageName":"pic05.jpg",
+"ImageName":"stepgoogle.jpg",
 "Link":"https://medium.com/@lavina16052/google-step-internship-5b5141e0cac6"
 },
 {
