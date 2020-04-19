@@ -31,7 +31,7 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 },
 {
 "Title":"Google Venkat Scholarship - A Dream Come True",
-"Author":"Baani Leen Kaur",
+"Author":"Baani Leen Kaur Jolly",
 "Date":"Aug 14, 2019",
 "Description":"Baani narrates her experience of how she got the prestigious Google Venkat Scholarship and the retreat",
 "ImageName":"pic06.jpg",
