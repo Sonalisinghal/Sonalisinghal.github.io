@@ -1,7 +1,7 @@
 datasets=[{"Title":"Breaking down barriers to open source contributions",
-"Author":"Tanea Agrawaal",
+"Author":"Taneea Agrawaal",
 "Date":"Mar 24,2020",
-"Description":"Tanea helps clearning some doubts about RGSoC and how it can help one to get started with FOSS",
+"Description":"Taneea helps clearning some doubts about RGSoC and how it can help one to get started with FOSS",
 "ImageName":"opensource.jpg",
 "Link":"https://railsgirlssummerofcode.org/blog/2020-03-24-breaking-barriers"
 },

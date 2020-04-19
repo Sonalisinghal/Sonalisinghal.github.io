@@ -38,7 +38,7 @@ with open(tempfile, 'w') as f:
                     <h6><b>Eligibiblity: </b>'''+ds['Eligibility']+'''</h6>
                     <h6><b>Stipend: </b>'''+ds['Stipend']+'''</h6>
                     <ul class="actions">
-                      <li><a href="'''+ds['Link']+'''" class="button">Learn More</a></li>
+                      <li><a target="_blank" href="'''+ds['Link']+'''" class="button">Learn More</a></li>
                     </ul>
                   </div>
                   <span class="image"><img src="images/'''+ds['Imagename']+'''" alt="" /></span>

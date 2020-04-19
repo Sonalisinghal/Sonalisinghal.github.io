@@ -40,7 +40,7 @@ with open(tempfile, 'w') as f:
                                   <div class="blog__unit-description">
                                     '''+ds["Description"]+'''
                                   </div>
-                                  <a href="'''+ds["Link"]+'''" class="button purple small">Read more</a>
+                                  <a target="_blank" href="'''+ds["Link"]+'''" class="button purple small">Read more</a>
                               </div> <!-- end wrapper -->
                           </article>
               ''')
