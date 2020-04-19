@@ -31,9 +31,7 @@ with open(tempfile, 'w') as f:
     f.write('''
                 <div class="spotlight">
                   <div class="content">
-                    <header class="major">
-                      <h3>'''+ds["Scholarship"]+'''</h3>
-                    </header>
+                    <h2>'''+ds["Scholarship"]+'''</h2>
                     <p>'''+ds['About']+'''</p>
                     <h6><b>Applications Open: </b>'''+ds['Applications open']+'''</h6>
                     <h6><b>Applications Close: </b>'''+ds["Application Close"]+'''</h6>
