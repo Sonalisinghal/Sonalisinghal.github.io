@@ -1,10 +1,9 @@
 import os
-
+from pages import pagelist
 startComment = "START AUTO-INSERT HEAD"
 endComment = "END AUTO-INSERT HEAD"
 tempfile = 'nav.temp'
 
-pagelist=["../opensource.html","../index.html","../competitiveprogramming.html","../blogs.html","../courses.html","../developerclubs.html","../elements.html","../internships.html","../research.html","../scholarships.html","../contribute.html"]
 def updatePage():
   with open(pageToChange,'r') as file:
     orgLines = file.readlines()

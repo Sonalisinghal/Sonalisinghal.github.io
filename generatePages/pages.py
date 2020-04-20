@@ -1,0 +1,1 @@
+pagelist=["../opensource.html","../index.html","../competitiveprogramming.html","../blogs.html","../courses.html","../developerclubs.html","../elements.html","../internships.html","../research.html","../scholarships.html","../contribute.html"]
