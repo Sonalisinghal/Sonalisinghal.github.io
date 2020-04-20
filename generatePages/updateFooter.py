@@ -1,7 +1,7 @@
 import os
 from pages import pagelist
-startComment = "START AUTO-INSERT HEAD"
-endComment = "END AUTO-INSERT HEAD"
+startComment = "START AUTO-INSERT FOOTER"
+endComment = "END AUTO-INSERT FOOTER"
 tempfile = 'nav.temp'
 
 
