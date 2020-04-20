@@ -6,7 +6,7 @@ datasets=[{
             "Applications Open": "February and September",
             "Last Date to Apply": "March and October respectively",
             "Link": "https://www.outreachy.org/",
-            "Imagename": "outreachy.png"
+            "Imagename": "outreachy.jpg"
         },
         {
             "Contest": "GirlsScript Summer of Code",
@@ -16,7 +16,7 @@ datasets=[{
             "Applications Open":"January",
             "Last Date to Apply": "Feb second week",
             "Link": "https://www.gssoc.tech/",
-            "Imagename": "gslogo.png"
+            "Imagename": "gslogo.jpg"
 
         },
         {
@@ -27,7 +27,7 @@ datasets=[{
             "Applications Open": "March",
             "Last Date to Apply": "March end",
             "Link": "https://railsgirlssummerofcode.org/",
-            "Imagename": "railsgirlssoc.png"
+            "Imagename": "railsgirlssoc.jpg"
         },
         {
             "Contest": "Google Summer of Code",
@@ -37,7 +37,7 @@ datasets=[{
             "Applications Open": "March",
             "Last Date to Apply": "March end",
             "Link": "https://summerofcode.withgoogle.com/",
-            "Imagename": "gsoc.png"
+            "Imagename": "gsoc.jpg"
         },
         {
             "Contest": "Season of Docs",
@@ -47,7 +47,7 @@ datasets=[{
             "Applications Open": "May",
             "Last Date to Apply": "June second week",
             "Link": "https://developers.google.com/season-of-docs",
-            "Imagename": "seasonofdocs.png"
+            "Imagename": "seasonofdocs.jpg"
 
         },
         
@@ -69,7 +69,7 @@ datasets=[{
             "Applications Open": "Anytime ",
             "Last Date to Apply": "Anytime",
             "Link": "https://www.x.org/wiki/XorgEVoC/",
-            "Imagename": "xorg.png"
+            "Imagename": "xorg.jpg"
 
         }
     ]
