@@ -31,6 +31,6 @@ Being in the field of tech can be intimidating for anyone, especially for those 
 3. Javascript
 
 ## Design
-1. [HTML5UP](https://html5up.net/). Must visit for some really awesome design templates. I used Phantom to make this along with many other added elements. 
-2. [Codepen Clash of Clan Cards](https://codepen.io/drehimself/pen/QNXpyp)
+1. [HTML5UP](https://html5up.net/). Must visit for some really awesome website design templates. I used Phantom to make this along with many other added elements. 
+2. [Codepen Clash of Clan Cards](https://codepen.io/drehimself/pen/QNXpyp) I used this for making blog cards and competitive programming practicing platform cards. 
 3. [Images From unsplash](https://unsplash.com/), others are logos or official websites.  
