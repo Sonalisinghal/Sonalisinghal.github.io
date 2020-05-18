@@ -37,4 +37,12 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 "ImageName":"pic06.jpg",
 "Link":"https://medium.com/@BaaniLeen/google-venkat-scholarship-a-dream-come-true-c54f5b42ac1d"
 }
+{
+"Title":"Quick Tips for Grace Hopper Celebration Attendees",
+"Author":"Anannya Uberoi",
+"Date":"Aug 9, 2019",
+"Description":"Annanya gives some useful tips from her experience for those attending the Grace Hopper Celebration.",
+"ImageName":"pic05.jpg",
+"Link":"https://medium.com/@anannyauberoi/quick-tips-for-grace-hopper-celebration-attendees-bc8a4083330c"
+}
 ]
