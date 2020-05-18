@@ -1,4 +1,5 @@
-datasets=[{"Title":"Breaking down barriers to open source contributions",
+datasets=[
+{"Title":"Breaking down barriers to open source contributions",
 "Author":"Taneea Agrawaal",
 "Date":"Mar 24,2020",
 "Description":"Taneea helps clearing some doubts about RGSoC and how it can help one to get started with FOSS",
@@ -36,7 +37,7 @@ datasets=[{"Title":"Breaking down barriers to open source contributions",
 "Description":"Baani narrates her experience of how she got the prestigious Google Venkat Scholarship and the retreat",
 "ImageName":"pic06.jpg",
 "Link":"https://medium.com/@BaaniLeen/google-venkat-scholarship-a-dream-come-true-c54f5b42ac1d"
-}
+},
 {
 "Title":"Quick Tips for Grace Hopper Celebration Attendees",
 "Author":"Anannya Uberoi",
