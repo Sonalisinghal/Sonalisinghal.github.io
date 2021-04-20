@@ -1,5 +1,5 @@
 # TechHelpher
-[Visit website here](http://techhelpher.me)
+[Visit website here](http://Sonalisinghal.github.io)
 ![Website Image](https://github.com/Sonalisinghal/Sonalisinghal.github.io/blob/master/images/techhelpher.jpg)
 
 
